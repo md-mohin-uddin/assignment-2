@@ -6,14 +6,19 @@ h1{
 .btn{
     font-family: 'Bebas Neue', cursive ;
     line-height: 1;
+    background-color: rgba(58, 11, 228, 0.918);
+    padding: 10px 30px;
 }
 h3{
     font-family: 'Oswald', sans-serif;
     color:rgb(15, 15, 61);
 }
-.name-highlight{
+.name-highlight , .price{
     color: #FA804C;
 }
 .nike{
     padding-top: 100px;
+}
+.price{
+
 }
