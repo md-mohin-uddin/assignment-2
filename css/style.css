@@ -1,0 +1,19 @@
+h1{
+    font-family: 'Bebas Neue', cursive ;
+    line-height: 1;
+    color: rgb(15, 15, 61);
+}
+.btn{
+    font-family: 'Bebas Neue', cursive ;
+    line-height: 1;
+}
+h3{
+    font-family: 'Oswald', sans-serif;
+    color:rgb(15, 15, 61);
+}
+.name-highlight{
+    color: #FA804C;
+}
+.nike{
+    padding-top: 100px;
+}
